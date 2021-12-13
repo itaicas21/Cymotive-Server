@@ -1,0 +1,6 @@
+Phase 3: 
+TODO deduct which get request was called, and implement them.
+
+TODO fix error handling + appropriate status codes
+
+TODO Fix naming
